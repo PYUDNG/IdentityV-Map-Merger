@@ -1,0 +1,9 @@
+#dragtip {
+	text-align: center;
+	font-size: 6vw;
+	padding: calc(50vh - 3vw) 0;
+}
+
+#input-container, #output-container {
+	display: none;
+}
